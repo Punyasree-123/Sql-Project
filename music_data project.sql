@@ -49,5 +49,5 @@ on t.genre_id=t.genre_id
 where g.name = "Rock"
 order by c.email;
 
--- 7.
+
 
